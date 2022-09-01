@@ -1,4 +1,4 @@
-# Holberton System Engineering Projects
+#Chibuzo System Engineering Projects
 
 ## 0x00 Shell Basics
 * [Current working directory](0x00-shell_basics/0-current_working_directory)
